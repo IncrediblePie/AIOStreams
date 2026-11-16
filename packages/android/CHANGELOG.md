@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.15.1](https://github.com/Viren070/AIOStreams/compare/android-v0.15.0...android-v0.15.1) (2026-11-16)
+
+
+### Bug Fixes
+
+* **android:** close mpv on its calls thread after the queued calls ([017279f](https://github.com/Viren070/AIOStreams/commit/017279fa3bb6051c8647b87c901b302f2a59647b))
+* **android:** match the frame rate only while the video fills the window ([ebd8033](https://github.com/Viren070/AIOStreams/commit/ebd8033ba074aa0a0e08ad557b1c909559f9d78d))
+
 ## [0.15.0](https://github.com/Viren070/AIOStreams/compare/android-v0.14.0...android-v0.15.0) (2026-11-14)
 
 
